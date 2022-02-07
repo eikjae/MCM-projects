@@ -1,1 +1,1 @@
-#### MCM: The Mathematical Contest in Modeling - hosted by COMAP
+#### MCM: The Mathematical Contest in Modeling - hosted by *COMAP*
